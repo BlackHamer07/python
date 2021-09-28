@@ -1,0 +1,17 @@
+복잡한거나 기억하고 싶은것만 정리
+
+while문 쓰는법 
+while i < 3:
+  print...
+  i = i + 1
+  
+while true = 무한루프
+무한루프 조건 = break, continue
+continue = 특정 조건에서 실행시키지 않고 싶을때 쓰는것
+if i == 1:
+  continue
+  --> 이 말은 i가 1이면 밑의 문장을 실행시키지 말고 넘어가라
+  
+for문 쓰는법
+for i in range(10)
+  print...
